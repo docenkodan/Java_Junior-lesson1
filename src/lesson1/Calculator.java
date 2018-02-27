@@ -13,6 +13,7 @@ public class Calculator {
 	{
 		result = arg1 + arg2;
 	}
+	
 	public Calculator() {
 		result = 0;
 		
