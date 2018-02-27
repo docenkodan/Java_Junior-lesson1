@@ -14,6 +14,11 @@ public class Calculator {
 		result = arg1 + arg2;
 	}
 	
+	public void add(double arg)
+	{
+		result += arg;
+	}
+	
 	public Calculator() {
 		result = 0;
 		
